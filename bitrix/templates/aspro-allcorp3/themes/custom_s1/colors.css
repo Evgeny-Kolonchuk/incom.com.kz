@@ -1,0 +1,289 @@
+.owl-carousel__dot.active::after {
+  border-color: #ec4a4a;
+}
+a.grey {
+  color: #818181;
+}
+a.grey:hover {
+  color: #ec4a4a;
+}
+.dark_link:hover {
+  color: #ec4a4a;
+}
+.btn-inline {
+  color: #ec4a4a;
+}
+.btn-inline.black:hover {
+  color: #ec4a4a;
+}
+.btn-inline.rounded:hover i {
+  background: #ec4a4a;
+}
+body .fa.big-icon {
+  background: #ec4a4a;
+}
+body .fa.big-icon.grey {
+  color: #ec4a4a;
+  background: #efefef;
+}
+.icon-text {
+  color: #fff;
+  background: #ec4a4a;
+}
+.icon-text .fa {
+  color: #fff;
+}
+.icon-text.grey {
+  color: #222;
+  background: #efefef;
+}
+.icon-text.grey .fa {
+  color: #ec4a4a;
+}
+a.scroll-to-top.ROUND_COLOR,
+a.scroll-to-top.RECT_COLOR {
+  background-color: #ec4a4a;
+}
+a.scroll-to-top.ROUND_COLOR:hover,
+a.scroll-to-top.RECT_COLOR:hover {
+  background-color: #f06f6f;
+}
+.underline {
+  border-bottom: 2px solid #ec4a4a;
+}
+blockquote::before {
+  color: #ec4a4a;
+}
+.review .it:before {
+  color: #ec4a4a;
+}
+.styled-block {
+  border-left-color: #ec4a4a;
+}
+.list.icons .fa {
+  color: #ec4a4a;
+}
+table.table th {
+  background-color: #ec4a4a;
+}
+hr.colored_line {
+  border-color: #ec4a4a;
+}
+.label.label-default {
+  background: #93a6bc;
+}
+.label.label-primary {
+  background: #b8c2cd;
+}
+.label.label-success {
+  background: #5cb85c;
+}
+.label.label-warning {
+  background: #f0ad4e;
+}
+.label.label-danger {
+  background: #d9534f;
+}
+.svg.colored svg path {
+  fill: #ec4a4a;
+}
+#main .header-cart--hcolor-count .header-cart__count {
+  background-color: #ef6666 !important;
+}
+.search-tags-cloud .tags a:hover {
+  background: #ec4a4a;
+}
+.breadcrumb a:hover {
+  color: #222;
+}
+.breadcrumb a:active {
+  color: #cf1616;
+}
+.breadcrumb li:hover > a {
+  color: #ef6666;
+}
+.pagination .active a,
+.pagination .active span {
+  border-color: #ec4a4a !important;
+  background-color: #ec4a4a !important;
+}
+.pagination li:not(.active):hover a {
+  border-color: #ec4a4a !important;
+  color: #ec4a4a;
+}
+.pagination a:hover .fa {
+  color: #ec4a4a;
+}
+.pagination li.prev:hover a svg path,
+.pagination li.next:hover a svg path {
+  fill: #ec4a4a;
+}
+.item-views.blocks h3.line:after {
+  background: #ec4a4a;
+}
+.nav-direction .flex-direction-nav li a {
+  background: #ec4a4a;
+}
+.nav-direction .flex-direction-nav li a:hover {
+  background: #ef6666;
+}
+.show_props .char_title:hover svg path {
+  fill: #ec4a4a;
+}
+.cls-cluster2 {
+  fill: #ec4a4a;
+}
+.social-icons li:hover a {
+  border-color: #ef6666;
+  background-color: transparent;
+}
+.accordion-head.accordion-open a,
+.accordion-head:hover a {
+  color: #ec4a4a;
+}
+.detail .gallery-block .small-gallery ul.items li.flex-active-slide,
+.detail .gallery-block .small-gallery ul.items li:hover {
+  border-color: #ec4a4a;
+}
+.flex-direction-nav a:hover,
+.flex-direction-nav a:hover::before {
+  color: #ef6666;
+  border-color: #ef6666;
+}
+.color-controls .flex-direction-nav a {
+  background: #ec4a4a;
+}
+.color-controls .flex-direction-nav a:hover {
+  background: #ef6666;
+}
+span.zoom {
+  background-color: #ec4a4a;
+}
+span.zoom:hover {
+  background-color: #ef6666;
+}
+.wr_scrollbar .scrollbar .handle {
+  background: #ec4a4a;
+}
+.banners-small .item .title a:hover {
+  color: #ec4a4a !important;
+}
+.banners-big.view_2 .slides  li .maxwidth-theme .row .tablet_text {
+  background-color: #ec4a4a;
+}
+.banners-big.view_2 .flexslider .slides li .wrap .tablet_text .banner_buttons .btn:hover {
+  color: #ec4a4a !important;
+}
+.teasers.item-views.front.icons .item a:hover {
+  color: #ec4a4a !important;
+}
+.front-projects.item-views.table .item .info {
+  border-top-color: #ec4a4a;
+}
+.front-projects.item-views.table .item a:hover .info {
+  background: #324860;
+}
+.front-projects.item-views.table .item a:hover .info:before {
+  border-bottom-color: #ec4a4a;
+}
+.item-views .item .title a:hover {
+  color: #ec4a4a;
+}
+.docs-block .iblocks:hover .icons-block a,
+.iblocks .icons-block a:hover {
+  background: #ec4a4a;
+}
+.docs-block .iblocks:hover .text-block .text {
+  color: #ec4a4a !important;
+}
+.item-views .property.price .fa,
+.item-views .property.price .price_val {
+  color: #ec4a4a;
+}
+.item-views .item:hover .property .fa {
+  color: #ec4a4a;
+}
+.link-block-more .dark-color:hover:before {
+  background: #ec4a4a;
+}
+.tabs.item-views.table .title,
+.history.item-views.table .title {
+  color: #ec4a4a;
+}
+.history.item-views .title {
+  color: #ec4a4a;
+}
+.detail .galery #slider.flexslider:hover .flex-direction-nav {
+  background: #ef6666;
+}
+.detail .galery #carousel .slides li.flex-active-slide {
+  border-color: #ec4a4a;
+}
+.detail .reviews .item .review .icons:before {
+  color: #ec4a4a;
+}
+.detail .galery #carousel .flex-direction-nav a:hover::before {
+  color: #ec4a4a;
+}
+.catalog.group .price .price_val {
+  color: #ec4a4a;
+}
+.select-outer i.fa {
+  color: #ec4a4a;
+}
+.item-views.table.bblock .item .info {
+  border-top-color: #ec4a4a;
+}
+.popup_regions .items .item.current {
+  background: #ec4a4a;
+}
+#headerfixed .nav-pills>li.active>a,
+#headerfixed .nav>li>a:focus,
+#headerfixed .nav>li>a:hover,
+#headerfixed .nav-pills>li.active>a,
+#headerfixed .nav-pills>li.active>a:focus,
+#headerfixed .nav-pills>li.active>a:hover,
+#headerfixed .dropdown-menu>.active>a,
+#headerfixed .dropdown-menu>.active>a:focus,
+#headerfixed .dropdown-menu>.active>a:hover,
+#headerfixed .dropdown-menu>li>a:focus,
+#headerfixed .dropdown-menu>li>a:hover {
+  color: #ec4a4a;
+}
+.item .sticker-block {
+  color: #ec4a4a;
+}
+.news_block .item .sticker {
+  background: #ec4a4a;
+}
+.reviews.item-views.slider .item .preview-text-wrapper .quote svg path {
+  fill: #ec4a4a;
+}
+.profit-front-block .item .image {
+  background: #ec4a4a;
+}
+.item-views .item .title a.colored {
+  color: #ec4a4a;
+}
+.float-banners.v2 .item:hover:after {
+  background: #ec4a4a;
+}
+.marker .mcls-1 {
+  fill: #ec4a4a;
+}
+.bx-yandex-view-layout .pane_info_wrapper .pane_info .email a:hover {
+  color: #ec4a4a;
+}
+.marker:hover .mcls-1 {
+  fill: #f06f6f;
+}
+.subscribe-edit-main .form input[type=checkbox] + label:hover:after,
+.subscribe-edit-main .form input[type=checkbox]:checked + label:after,
+.subscribe-edit-main .form input[type=radio] + label:hover:after,
+.subscribe-edit-main .form input[type=radio]:checked + label:after {
+  background-color: #ec4a4a;
+  border-color: #ec4a4a;
+}
+.subscribe-edit-main font.notetext {
+  border-color: #ec4a4a;
+}

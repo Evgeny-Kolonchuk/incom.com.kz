@@ -1,1 +1,4 @@
 /bitrix/
+/upload/
+*.txt
+*.html
