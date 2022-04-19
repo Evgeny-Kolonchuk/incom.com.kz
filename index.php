@@ -1,5 +1,5 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Нет ВОЙНЕ!");
+$APPLICATION->SetTitle("Нет ВОЙНЕ!!!");
 $GLOBALS["arrFilterMainTheme"] = array("PROPERTY_MAIN_VALUE" => 1);
 $GLOBALS["arrFilterMain"] = array("PROPERTY_MAIN_VALUE" => 1);
 ?>
