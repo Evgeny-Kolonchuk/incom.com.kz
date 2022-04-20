@@ -1,7 +1,7 @@
 <?
 $sSectionName = "Главная";
 $arDirProperties = Array(
-   "description" => "Корпоративный сайт",
+   "description" => "Корпоративный сайт incom.kz",
    "keywords" => "Корпоративный сайт, заказать, купить",
    "MENU" => "N"
 );
